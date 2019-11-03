@@ -1,2 +1,3 @@
 # TextAnalytics
-Text Analytics Workbook
+Text Analytics Notebooks
+
